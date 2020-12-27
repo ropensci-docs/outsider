@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8f94e1d017543b3d570d99ab0807dd58250c767d",
+    "author": "Dominic Bennett <dominic.john.bennett@gmail.com>",
+    "time": "2020-12-27 17:20:24",
+    "files": 1,
+    "merge": false,
+    "message": "Minor\n"
+  },
+  "remote": "https://github.com/ropensci/outsider",
+  "pkg": "outsider"
+}

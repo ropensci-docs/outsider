@@ -1,0 +1,13 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  available: available.html
+  outsider: outsider.html
+  phylogenetic_pipeline: phylogenetic_pipeline.html
+  ssh: ssh.html
+last_built: 2021-07-08T20:03Z
+urls:
+  reference: https://docs.ropensci.org/outsider/reference
+  article: https://docs.ropensci.org/outsider/articles
+
